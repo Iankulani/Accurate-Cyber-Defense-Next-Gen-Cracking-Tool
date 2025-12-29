@@ -2,3 +2,13 @@
 Accurate-Cyber-Defense Next-Gen Cracking Tool is a powerful security auditing utility designed to test the strength of SSH (Port 22) access points.
 
 The tool performs controlled, ethical penetration attempts to identify weak passwords, misconfigurations, and vulnerable authentication methods. Built for cybersecurity experts, it supports automated scanning, intelligent wordlists, and adaptive attack techniques to expose real security flaws before attackers do. With fast processing, detailed reporting, and Telegram-ready notifications, the tool helps organizations secure their servers, harden SSH configurations, and strengthen network defenses. It is built for professional assessments, training labs, and next-generation cyber defense operations.
+
+## How to clone the repo
+```bash
+git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Next-Gen-Cracking-Tool.git
+cd Accurate-Cyber-Defense-Next-Gen-Cracking-Tool
+```
+## How to run
+```bash
+python Accurate-Cyber-Defense-Next-Gen-Cracking-Tool.py
+```
